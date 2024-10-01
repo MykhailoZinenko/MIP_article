@@ -1,0 +1,9 @@
+# Ignore all files
+*
+
+# Except .tex and .bib files
+!*.tex
+!*.bib
+
+# Don't ignore .gitignore itself
+!.gitignore
